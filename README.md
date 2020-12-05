@@ -1,6 +1,6 @@
 # TweetAnalysis
 
-Analyzing my tweets the last couple of months/
+Analyzing my tweets the last couple of months.
 
 ## Packages used
 * Tweepy
